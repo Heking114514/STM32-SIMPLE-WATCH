@@ -277,4 +277,4 @@ FFmpeg 有编译并分发无恶意、适配 Windows的exe文件
 
 4. 复制到项目目录：
 
-   将这三个 exe 复制到你项目的 `scripts/music_converter/` 目录下（
+   将这三个 exe 复制到你项目的 `scripts/music_converter/` 目录下
