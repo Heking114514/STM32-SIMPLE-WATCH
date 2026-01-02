@@ -51,7 +51,7 @@ watch_project---|----Core(cubemx生成的底层配置代码)
                 
     scripts-----|----------------|--字库烧录|--font_generater.py
                 |                |         |--字库数据.h/c
-                |                |--music_converter
+                |----------------|--music_converter
   
 				
 ```
